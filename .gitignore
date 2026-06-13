@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets & credentials — NEVER commit these
+.env
+.envrc
+credentials.json
+
+# Telegram bot runtime data
+bot_data
+bot_data.ptb
+
+# Backups (contain student data)
+backups/
+
+# Claude Code local settings
+.claude/
+
+# Logs
+*.log
+
+# Tests cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/

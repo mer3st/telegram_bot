@@ -1,0 +1,7 @@
+python-telegram-bot==22.7
+gspread==6.2.1
+google-auth==2.53.0
+google-auth-oauthlib==1.4.0
+python-dotenv==1.2.2
+requests==2.34.2
+tenacity==9.1.4
